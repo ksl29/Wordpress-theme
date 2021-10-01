@@ -12,11 +12,11 @@
 
 ##Links to Users Page
 
-![webpage7](/images/webpage7.png)
+![webpage7](/images/webpage7.PNG)
 
 ##Links to Posts Page
 
-![webpage6](/images/webpage6.png)
+![webpage6](/images/webpage6.PNG)
 
 ##Links to Menu Page
 
