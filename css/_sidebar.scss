@@ -1,0 +1,14 @@
+#main_sidebar {
+  border-radius: 5%;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.025),
+    0 4px 10px 0 rgba(0, 0, 0, 0.025);
+  padding: 1em;
+  border: 1px solid rgba(211, 211, 211, 0.5);
+
+  h2 {
+    border-bottom: 1px solid #d5d5d5;
+  }
+  a {
+    color: black;
+  }
+}

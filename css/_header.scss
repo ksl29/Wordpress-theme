@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  margin-bottom: 1em;
+}
+header h1 {
+  color: #0d6efd;
+}
+nav {
+  width: 40%;
+}
+.main-menu {
+  ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  a {
+    color: black;
+    font-size: 24px;
+  }
+}
